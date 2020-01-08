@@ -1,0 +1,25 @@
+/* header */
+.div_header {
+    display: table;
+    width: 100%;
+    height: 55px;
+    background-color: #4374D9;
+    padding-left: 25px;
+}
+.pre_header {
+    font-size: 1.2em;
+    color:white;    
+    font-weight: bold;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+/* container */
+.div_container_body {
+    padding: 30px;
+}
+
+.div_contents_body {
+    padding: 30px;
+}
